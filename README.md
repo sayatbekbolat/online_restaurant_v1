@@ -23,6 +23,7 @@
 
 </p>
 
+![Screenshot](media/restaurant_site.jpeg)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
