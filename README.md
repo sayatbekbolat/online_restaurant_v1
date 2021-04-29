@@ -18,7 +18,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center"><<AQJOL>> restaurant site</h3>
+  <h3 align="center"> AKZHOL restaurant site</h3>
 
 
 </p>
@@ -85,4 +85,11 @@ Use conda env to create an environment for the project. Install python, django, 
 2. Install PIP packages
    ```sh
    pip install -r req.txt
+   ```
+### RUN
+
+
+1. run server
+   ```sh
+   python manage.py runserver
    ```
